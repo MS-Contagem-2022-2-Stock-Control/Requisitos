@@ -1,0 +1,43 @@
+Requisitos Funcionais
+
+01) RF01 Como poderá ser realizada a atualização dos produtos?
+
+02) RF02 Porque o sistema deverá gerar relatórios?
+
+03) RF03 A matrícula dos usuários autorizados deverá ser alterável? 
+
+04) RF04 Como o sistema realizará a atualização da movimentação dos produtos?
+
+05) RF05 O sistema deverá realizar o compartilhamento de relatórios?
+
+06) RF06 Como o usuário poderá realizar o cadastro de novos produtos?
+
+07) RF07 Se o usuário tiver alguma dúvida, terá como solicitar ajuda do administrador?
+
+08) RF08 Quais itens o sistema solicitará para realizar o cadastramento de um novo usuário?
+
+09) RF09 Como o sistema poderá catalogar cada produto?
+
+10) RF10 Quais telas terão no sistema de estoque?
+
+**Respostas:**
+
+RF01 -  A atualização do produto poderá ser alterável nos seguintes itens: Quantidade, valor, lote, variante, grupo de categoria, data de vencimento.
+
+RF02 - O sistema deverá gerar relatório da atualização dos produtos para sabermos sobre a movimentação.
+
+RF03 - A matrícula de usuários autorizados deverá ser alterável. 
+
+RF04 - O sistema deverá realizar a atualização da movimentação de produtos, contendo os seguintes itens: Quantidade de entrada, quantidade atual e quantidade de saída.
+
+RF05 -  O sistema deverá realizar o compartilhamento de relatórios.
+
+RF06 - O sistema poderá realizar o cadastro de novos produtos a partir da leitura de código de barras e manualmente.
+
+RF07 - O sistema deverá ter contato para suporte (Precisa de ajuda?).
+
+RF08 - O sistema deverá solicitar os seguintes itens para o cadastramento do novo usuário: Id, Nome, CPF, setor de trabalho e senha.
+
+RF09 - O sistema permitirá catalogar os produtos pelos seguintes itens: ID, categoria, peso, tamanho, nome, data de vencimento.
+
+RF10 - O sistema deverá ter as seguintes telas: Login (criar conta e login), itens com estoque baixo, fluxo de caixa, mercadorias(produtos), histórico e nova venda(movimentação).
