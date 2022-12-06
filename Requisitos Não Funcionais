@@ -1,0 +1,35 @@
+**Requisitos Não Funcionais**
+
+01) RNF01 Como ter acesso ao Stock Control?
+
+02) RNF02 Como será a usabilidade do sistema?
+
+03) RNF03 Quando a empresa definirá quem está autorizado a realizar 
+
+04) RNF04 Quantos acesso o sistema suportará?
+
+05) RNF05 Em quais sistemas operacionais os aplicativo funcionará?
+
+06) RNF06 Como o sistema vai cadastrar os produtos?
+
+07) RNF07 Se estiver acabando o estoque, como vamos auxiliar nosso cliente?
+
+08) RNF08 O sistema deverá gerar relatórios?
+
+09) RNF09 Como o programa deverá realizar o cadastro dos produtos?
+
+10) RNF10 O cliente deverá criar o produto toda vez que for registrar?
+
+11) RNF11 O que será solicitado para a atualização no sistema?
+
+12) RNF12 Como sistema terá termos e condições de uso?
+
+13) RNF13 Como podemos ter mais segurança nos produtos?
+
+14) RNF14 Quais serão os formatos de exportação do relatório do sistema?
+
+15) RNF15 De quanto em quanto tempo o usuário poderá cadastrar um novo produto?
+
+16) RNF16 Qual será o número de cadastros máximos de produtos permitidos pelo usuário?
+
+17) RNF17 Quais serão as telas no nosso sistema?
