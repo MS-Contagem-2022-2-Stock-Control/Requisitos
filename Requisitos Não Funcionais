@@ -33,3 +33,41 @@
 16) RNF16 Qual será o número de cadastros máximos de produtos permitidos pelo usuário?
 
 17) RNF17 Quais serão as telas no nosso sistema?
+
+**Respostas:**
+
+RNF01 - Segurança: Para ter acesso ao Stock Control o usuário/empresa deve fazer um cadastro com nome, email, CNPJ e senha.
+
+RNF02 - Desempenho: O sistema deverá ter fácil usabilidade, simples e intuitiva.
+
+RNF03 - Segurança: Após o cadastro, a empresa deve realizar a matrícula dos funcionários autorizados a fazer a gestão dos estoques.
+
+RNF04 - Desempenho: O site deverá suportar até 2.000.000 acessos simultâneos. 
+
+RNF05 - Usabilidade: O aplicativo deverá funcionar nos sistemas operacionais: Ubuntu, Linux Mint, MacOs, Windows, Android, iOS, Tizen, Mac, Solaris.
+
+RNF06 - Disponibilidade: O sistema deverá fazer o mapeamento dos produtos do estoque.
+
+RNF07 - Usabilidade: O sistema deverá avisar/notificar os produtos que estão faltando (Estoque baixo).
+
+RNF08 - Usabilidade: O sistema deverá gerar relatório dos produtos existentes na empresa. 
+
+RNF09 - Disponibilidade: O sistema deverá realizar o cadastro de produtos com as seguintes informações: Id, foto, nome, peso unidade Kg, quantidade em estoque, variante, quantidade mínima para alerta, valor, tamanho, lote, grupo de categoria, data de vencimento.
+
+RNF10 - Disponibilidade: O sistema deverá manter o registro do produto apenas uma vez.
+
+RNF11 - Segurança: O sistema deverá solicitar a matrícula do funcionário para todas as atualizações e acessos no sistema.
+
+RNF12 -  Disponibilidade: O sistema deverá ter termos e condições de uso, código de conduta (segurança).
+
+RNF13 - Segurança: O sistema deverá solicitar trava de segurança na retirada de produtos.
+
+RNF14 - Disponibilidade: O formato de exportação do sistema deverá ser compatível com os seguintes formatos: Excel, PDF, CSV.
+
+RNF15 - Restrição: O sistema permitirá o cadastro de um novo produto a cada 10 segundos.
+
+RNF16 - Restrição: O sistema permitirá o cadastro de 50.001 produtos por empresa.
+
+RNF17 - Usabilidade: O sistema deverá ter o controle de finanças, com os seguintes itens: 
+Remuneração (Valor da quantidade de produtos atuais no estoque) escassez (Valor da falta da quantidade dos produtos do estoque), receita (Produtos vendidos).
+
